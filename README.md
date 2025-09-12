@@ -14,3 +14,14 @@ It demonstrates deep learning basics in Computer Vision with TensorFlow/Keras.
 ---
 
 ## 📂 Project Structure
+
+mnist-cnn/
+│
+├── src/ # Source code
+│ ├── model.py # Defines the CNN model
+│ ├── train.py # Training script for MNIST
+│ └── predict.py # Script to test the trained model
+│
+├── requirements.txt # List of required Python libraries
+├── README.md # Project documentation
+├── .gitignore # Files/folders ignored by Git
