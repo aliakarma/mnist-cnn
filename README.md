@@ -12,7 +12,7 @@ It demonstrates deep learning basics in Computer Vision with TensorFlow/Keras.
 - Pre-trained model saved in `results/`
 
 ---
-
+```
 ## 📂 Project Structure
 
 mnist-cnn/
@@ -25,3 +25,4 @@ mnist-cnn/
 ├── requirements.txt # List of required Python libraries
 ├── README.md # Project documentation
 ├── .gitignore # Files/folders ignored by Git
+```
